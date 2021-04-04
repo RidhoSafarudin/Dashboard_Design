@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dashboard_design</string>
+    <string name="hello">Hello</string>
+    <string name="ridho">Ridho</string>
+    <string name="search_elements">search_elements</string>
+    <string name="goals">goals</string>
+    <string name="finance">finance</string>
+    <string name="health">health</string>
+    <string name="comfort">comfort</string>
+    <string name="trending">TRENDING</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+    <string name="home">home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>
